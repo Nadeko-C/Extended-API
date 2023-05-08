@@ -1,2 +1,2 @@
 # Extended-API
-Extended API for Primordial
+Extended API for Primordial (Some functions might have an outdated solution)
